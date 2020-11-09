@@ -1,5 +1,5 @@
 # WEBTECH1-Zad.3
-Class Web Technologies
+Class Web Technologies Bootstrap + Forms + Resposivity
 
 Zadanie cvičenia:
 Vytvorte váš vlastný zmysluplný formulár. Zameranie formuláru si môžete určiť sami, musia však byť splnené nasledovné požiadavky:
